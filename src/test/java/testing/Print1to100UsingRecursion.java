@@ -16,10 +16,8 @@ public class Print1to100UsingRecursion {
 		}
 		else {
 			printValues(n-1);
+			System.out.println(n);
 		}
-		
-		System.out.println(n);
-		
 	}
 
 }
