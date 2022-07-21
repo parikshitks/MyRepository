@@ -28,7 +28,7 @@ public class ArrayPermutationUsingRecursion {
 	public static void print(String[] arr) {
 		System.out.println("");
 		for(String e: arr) {
-			System.out.println(e + " " );
+			System.out.println(e);
 		}
 	}
 	
