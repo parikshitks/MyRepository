@@ -62,7 +62,7 @@ public class PrintSubStringAccordingToPrefixedNumber {
 			}
 		}
 
-		System.out.println("Output by split stirng using regex: " + f);
+		System.out.println("Output by split string using regex: " + f);
 	}
 
 
